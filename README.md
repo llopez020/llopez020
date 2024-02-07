@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, my name is Levi and I am a Junior .NET/C# Developer! 👋 </h1>
 
-### This is my personal GitHub, where I showcase my projects that I have developed or am currently developing!🙌
+### This is my personal GitHub, where I showcase projects that I have developed or am currently developing!🙌
 
   
 <h2 align="center">📟</h2>
